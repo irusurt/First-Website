@@ -1,0 +1,103 @@
+body{
+  font-family: 'roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color:#353D41;
+}
+header.main-header{
+  background-color:#126A8E;
+}
+.main-nav a{
+  width: 24.5%;
+  display: inline-block;
+}
+.logo-banner{
+  height: 48px;
+  padding-top: 4px;
+}
+.logo-banner:hover{
+}
+.button-main-header{
+}
+.button-main-header a{
+  font-size: 1.05em;
+  text-decoration-line: none;
+}
+.nav-link:hover{
+  animation: slideInUp;
+  border-bottom-style: solid;
+  border-bottom-color: #4892B2;
+}
+.nav-link{
+  color:#F1FAFF;
+  padding-top: 18px;
+  padding-bottom: 15px;
+  margin-right: 0px;
+}
+.icon-social{
+  height: 24px;
+  padding-top: 17px;
+  margin-right:8px;
+}
+
+.text-center{
+  margin-top: 8px;
+  margin-bottom: 8px;
+  text-align: center;
+}
+.white-text{
+  color:#F1FAFF;
+}
+.main-container{
+  min-height: inherit;
+}
+.roboto{
+  font-family: 'roboto', sans-serif;
+}
+.title{
+  font-size: 2.5em;
+  margin-top: 0;
+}
+
+.menu{
+  background-color: #4385B2;
+  text-align: center;
+}
+.menu img{
+  height: 32px;
+}
+.menu a{
+  padding-top: 7px;
+  color: #181818;
+  text-decoration: none;
+}
+.blog-post-grid{
+  margin-left: 8px;
+  margin-right: 8px;
+}
+.blog-post img{
+  padding: 12px;
+  height: 240px;
+}
+.blog-post h3{
+  font-size: 1.5em;
+  margin-top: 0px;
+  margin-bottom: 4px;
+}
+.blog-post h6{
+  color: gray;
+  font-style: oblique;
+  margin-top: 2px;
+  margin-bottom: 0px;
+}
+.blog-post p{
+  margin-top: 8px;
+  padding-bottom: 12px;
+}
+.card{
+  background-color: #F1FAFF;
+  box-shadow: 4px 4px 0px rgba(180,180,180,2);
+}
+.delay-1{
+  animation-delay: 1;
+}

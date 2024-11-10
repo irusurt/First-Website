@@ -1,1 +1,1 @@
-# [WEBSITE](https://irusurt.github.io/First-Website/)
+[LINK](https://irusurt.github.io/first-website/)
